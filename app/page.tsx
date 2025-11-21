@@ -193,9 +193,9 @@ Jadwal belajar yang diinginkan: ${formData.schedule || "Fleksibel"}`
               </div>
 
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground leading-[1.1] text-balance">
-                Master English with
+               Belajar Bahasa Inggris itu 
                 <span className="block mt-2 bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-                  Confidence
+                  mudah & menyenangkan
                 </span>
               </h1>
 
@@ -261,7 +261,7 @@ Jadwal belajar yang diinginkan: ${formData.schedule || "Fleksibel"}`
               {/* Main Hero Image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="/diverse-students-in-modern-english-classroom-havin.jpg"
+                  src="https://akcdn.detik.net.id/community/media/visual/2021/04/12/ilustrasi-belajar-online_169.jpeg"
                   alt="English Learning"
                   className="w-full h-[500px] object-cover"
                 />
