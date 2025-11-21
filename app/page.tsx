@@ -193,9 +193,9 @@ Jadwal belajar yang diinginkan: ${formData.schedule || "Fleksibel"}`
               </div>
 
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground leading-[1.1] text-balance">
-               Belajar Bahasa Inggris itu 
+               BELAJAR BAHASA INGGRIS
                 <span className="block mt-2 bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent">
-                  mudah & menyenangkan
+                  MUDAH & MENYENANGKAN
                 </span>
               </h1>
 
